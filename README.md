@@ -1,8 +1,8 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=soft&color=0:161b22,100:0d1117&height=180&section=header&text=Suresh%20Chandra%20Sekar&fontSize=38&fontColor=e6edf3&fontAlignY=55&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=soft&color=0:161b22,100:21262d&height=180&section=header&text=Suresh%20Chandra%20Sekar&fontSize=38&fontColor=e6edf3&fontAlignY=55&animation=fadeIn)
 
-<img src="assets/ascii-portrait.png" width="200" alt="Suresh Chandra Sekar — ASCII portrait" />
+<img src="assets/ascii-portrait.png" width="260" alt="Suresh Chandra Sekar — ASCII portrait" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+CoreStack;Cloud+%E2%80%A2+Data+%E2%80%A2+Automation" alt="Typing SVG">
 
@@ -20,11 +20,13 @@
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 ### About
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="180" alt="deep thinking">
+
+</div>
 
 Software Engineer at **CoreStack**, working across MongoDB, multi-cloud
 integration (AWS / Azure / GCP), cloud monitoring, and REST API design.
@@ -34,36 +36,20 @@ leveling up — currently deep in cloud + data tooling.
 
 Outside of work: manga, long gaming sessions, anime, and making beats.
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="220" alt="deep thinking">
-
-</td>
-</tr>
-</table>
-
 <br>
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="220" alt="automatic typing">
-
-</td>
-<td width="60%" valign="top">
+<div align="center">
 
 ### Now
+
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="180" alt="automatic typing">
+
+</div>
 
 - 🔭 Building and hardening cloud-integration tooling at CoreStack
 - 🐚 Scripting glue between MongoDB, AWS/Azure/GCP, and Zabbix monitoring
 - 📡 Shipping REST APIs with Flask + Marshmallow
 - 🧩 Sharpening DSA fundamentals on the side ([leetcode_solutions](https://github.com/sureshchandras3kar/leetcode_solutions))
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -112,4 +98,4 @@ Outside of work: manga, long gaming sessions, anime, and making beats.
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="140" alt="night chill coding">
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:161b22&height=100&section=footer)
