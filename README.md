@@ -28,36 +28,20 @@
 
 </div>
 
-Software Engineer at **CoreStack**, working across MongoDB, multi-cloud
-integration (AWS / Azure / GCP), cloud monitoring, and REST API design.
-
-BE in Computer Software Engineering. Always picking up new tools and
-leveling up — currently deep in cloud + data tooling.
-
-Outside of work: manga, long gaming sessions, anime, and making beats.
+Senior Software Engineer at **CoreStack**, working across MongoDB, multi-cloud
+integration (AWS / Azure / GCP), Finops, and REST API design.
 
 <br>
 
 <div align="center">
 
-### Now
-
 <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="180" alt="automatic typing">
-
-</div>
-
-- 🔭 Building and hardening cloud-integration tooling at CoreStack
-- 🐚 Scripting glue between MongoDB, AWS/Azure/GCP, and Zabbix monitoring
-- 📡 Shipping REST APIs with Flask + Marshmallow
-- 🧩 Sharpening DSA fundamentals on the side ([leetcode_solutions](https://github.com/sureshchandras3kar/leetcode_solutions))
-
-<br>
 
 <div align="center">
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,aws,gcp,flask,django,mongodb,git,linux,numpy&theme=dark&perline=12">
+<img src="https://skillicons.dev/icons?i=python,rust,azure,bash,aws,gcp,flask,django,mongodb,git,linux,numpy&theme=dark&perline=12">
 
 </div>
 
@@ -68,9 +52,7 @@ Outside of work: manga, long gaming sessions, anime, and making beats.
 ### Pinned
 
 <a href="https://github.com/sureshchandras3kar/portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sureshchandras3kar&repo=portfolio&theme=dark_github_repocard" /></a>
-<a href="https://github.com/sureshchandras3kar/leetcode_solutions"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sureshchandras3kar&repo=leetcode_solutions&theme=dark_github_repocard" /></a>
 <a href="https://github.com/sureshchandras3kar/guardmcp"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sureshchandras3kar&repo=guardmcp&theme=dark_github_repocard" /></a>
-<a href="https://github.com/sureshchandras3kar/pydatalib2"><img src="https://github-stats-extended.vercel.app/api/pin/?username=sureshchandras3kar&repo=pydatalib2&theme=dark_github_repocard" /></a>
 
 </div>
 
@@ -97,5 +79,3 @@ Outside of work: manga, long gaming sessions, anime, and making beats.
 <sub>still here? 👋 let's build something epic</sub><br>
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="140" alt="night chill coding">
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:161b22&height=100&section=footer)
